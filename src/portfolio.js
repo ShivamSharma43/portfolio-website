@@ -156,7 +156,11 @@ const bigProjects = {
       footerLink: [
         {
           name: "Github Repo Link",
-          url: "https://github.com/ShivamSharma43/ecom-mern"
+          url: "https://github.com/ShivamSharma43/QuickMart"
+        },
+        {
+          name: "Website Link",
+          url: "https://quickmart-nine.vercel.app/"
         }
         //  you can add extra buttons here.
       ]
